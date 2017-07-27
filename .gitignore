@@ -1,0 +1,4 @@
+*.jar
+!maze-server-v2017.2-jar-with-dependencies.jar
+/.idea
+*.txt
